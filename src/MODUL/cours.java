@@ -1,5 +1,5 @@
 package MODUL;
 
-public class cours {
+public class Cours {
 
 }

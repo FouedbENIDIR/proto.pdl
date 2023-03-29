@@ -3,6 +3,8 @@ package MODUL;
 public class eleves extends Personne {//classe eleve etendue à personne 
 	private String filiere;
 	private String mail;
+	
+	
 	public eleves(String nom, String prenom, String id, String motDePasse, String filiere, String mail) {
 		super(nom, prenom, id, motDePasse);
 		this.filiere = filiere;

@@ -1,6 +1,6 @@
 package MODUL;
 
-public class eleves extends Personne {//classe eleve etendue à personne 
+public class Eleves extends Personne {//classe eleve etendue à personne 
 	private String filiere;
 	private String mail;
 	
